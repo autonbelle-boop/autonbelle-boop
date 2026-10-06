@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Alesha Auton 👋
 
-<!--
-**autonbelle-boop/autonbelle-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Software Engineering Student | Python | Flask | Machine Learning
 
-Here are some ideas to get you started:
+I'm an AI Software Engineering student building practical software and AI projects while developing my skills in Python, web development, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 📰 AI Fake News Detector
+
+A machine-learning web application that analyzes news headlines and predicts whether an article is likely to be **real or fake**.
+
+**Technologies:** Python • Flask • scikit-learn • TF-IDF • Logistic Regression
+
+[View Project](https://github.com/autonbelle-boop/fake-news-detector)
+
+### 📄 AI Resume Job Matcher
+
+A web application that uses text analysis to compare a resume with a job description and identify matching keywords.
+
+**Technologies:** Python • Flask • TF-IDF • Cosine Similarity
+
+[View Project](https://github.com/autonbelle-boop/ai-resume-job-matcher)
+
+### 💻 Portfolio Website
+
+My personal portfolio showcasing my projects, skills, and learning journey in AI Software Engineering.
+
+[View Portfolio](https://autonbelle-boop.github.io/)
+
+## 🛠️ Skills
+
+* Python
+* Flask
+* Machine Learning
+* scikit-learn
+* HTML & CSS
+* JavaScript / TypeScript
+* Git & GitHub
+
+## 📚 Currently Learning
+
+I'm continuing to build my skills in AI Software Engineering through hands-on projects, programming, and machine-learning applications.
+
+## 🎯 Goal
+
+My goal is to turn the skills I'm developing into real-world software and AI solutions and begin my career in technology.
+
+---
+
+**Thanks for visiting my GitHub!**
